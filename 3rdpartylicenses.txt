@@ -187,6 +187,9 @@ ngx-bootstrap/typeahead
 
 ngx-bootstrap/utils
 
+ngx-spinner
+MIT
+
 regenerator-runtime
 MIT
 MIT License
